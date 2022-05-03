@@ -1,0 +1,58 @@
+.titulo{
+text-align: center;
+
+
+font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+width: 200px;
+}
+
+.carga{
+    border: 2px solid;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table{
+border: 2px solid black;
+border-collapse: collapse;
+width: 100%;
+font-family: Arial, Helvetica, sans-serif; 
+}
+
+.habilitação{
+    border: 2px solid;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+}
+
+.Base{
+    border: 2px solid; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+      
+}
+.celulaB{
+    border: 2px solid;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.fg{
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    text-align: center;
+}
+.fp{
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+
